@@ -1,8 +1,4 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Venom&text=AIENGINEER)
-
- <br/>
  
 ####  :wave: Welcome to my github profile !
 
