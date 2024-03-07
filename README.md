@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjayoung&count_bg=%23FFDAB9&title_bg=%23FF6347&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=I%20want%20to%20AI%20engineer)
@@ -23,8 +24,8 @@ I am interested in **computer vision**, **image detection**, **robot vision**, a
 
  <br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pjayoung) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={parkjy623})](https://solved.ac/{parkjy623})
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pjayoung)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkjy623)](https://solved.ac/parkjy623/)
 
 <br/>
 
