@@ -1,10 +1,24 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Venom&text=JAYOUNG)
+![header](https://capsule-render.vercel.app/api?type=Venom&text=AIENGINEER)
 
  <br/>
  
 ####  :wave: Welcome to my github profile !
+
+Hi, I'm Jaeyoung Park. I am an undergraduate student who dreams of becoming an AI engineer.
+
+ <br/>
+ 
+I am currently enrolled at University of Seoul and will graduate in February 2025
+
+with a bachelor's degree in Environmental Horticulture and Artificial Intelligence.
+
+ <br/>
+ 
+I am interested in computer vision, image detection, robot vision, and real-time system processing.
+
+ <br/>
   
 ####  :clipboard: Once I've Used 
   
