@@ -19,8 +19,8 @@ I am currently enrolled at **University of Seoul** and will graduate in February
 with a bachelor's degree in **Environmental Horticulture** and **Artificial Intelligence**.
 
  <br/>
- 
-I am interested in **computer vision**, **image detection**, **robot vision**, and **real-time system processing**.
+
+I am interested in **Deep Learning**, **Computer Vision**  and **Real-time System Processing**.
 
  <br/>
 
