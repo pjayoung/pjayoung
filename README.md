@@ -20,7 +20,7 @@ with a bachelor's degree in **Environmental Horticulture** and **Artificial Inte
 
  <br/>
 
-I am interested in **Deep Learning**, **Computer Vision**  and **Real-time System Processing**.
+I am interested in **Deep Learning**, **Computer Vision**  and **Medical AI**, **Bioinformatics**.
 
  <br/>
 
