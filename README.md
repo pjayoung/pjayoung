@@ -10,7 +10,7 @@
 ###  :wave: Welcome to my github profile !
 <br/>
 
-Hi, I'm Jayoung Park. I am an undergraduate student who dreams of becoming an **AI engineer**.
+Hi, I'm Jayoung Park. I am an undergraduate student who dreams of becoming an **BIO AI engineer**.
 
  <br/>
  
