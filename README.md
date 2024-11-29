@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:E3F2FD,100:5A7DB8&text=I%20want%20to%20BIO%20AI%20engineer%20&fontColor=00008B)
  
-###  :wave: Welcome to my github profile !
+###  :wave: Welcome to My Github Profile !
 <br/>
 <br/>
 <br/>
