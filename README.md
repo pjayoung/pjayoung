@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjayoung&count_bg=%23FFDAB9&title_bg=%23FF6347&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:E3F2FD,100:5A7DB8&text=BIO%20AI%20Engineer%20&fontColor=00008B)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:E3F2FD,100:5A7DB8&text=BIO%20AI%20ENGINEER%20&fontColor=00008B)
  
 ###  :wave: Welcome to My Github Profile !
 <br/>
