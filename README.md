@@ -18,7 +18,7 @@ with a bachelor's degree in **Environmental Horticulture** and **Artificial Inte
 
  <br/>
 
-I am interested in **Deep Learning**, **Computer Vision**  and **Agriculture AI**, **Bioinformatics**.
+I am interested in **Deep Learning**, **Computer Vision**  and **Biomedical AI**, **Bioinformatics**.
 
  <br/>
 
