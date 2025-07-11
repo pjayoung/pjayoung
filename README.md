@@ -33,7 +33,7 @@ I am interested in **Deep Learning**, **Computer Vision**  and **Biomedical AI**
 ## 😎 Skill
 ### ✨ Profile ✨
 
-- <img src="https://img.shields.io/badge/NAVER%20BLOG-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">[https://velog.io/@pjayoung/posts] <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+- <img src="https://img.shields.io/badge/NAVER%20BLOG-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 - <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 <br/>
 
