@@ -33,7 +33,7 @@ I am interested in **Deep Learning**, **Computer Vision**  and **Biomedical AI**
 ## 😎 Skill
 ### ✨ Profile ✨
 
-- <a href="https://blog.naver.com/parkja623"><img src="https://img.shields.io/badge/NAVER%20BLOG-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a> <a href="https://velog.io/@pjayoung/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a> <a href="[https://blog.naver.com/parkja623](https://sticky-slice-0d4.notion.site/JAYOUNG-PARK-PORTFOLIO-60ac16834de54b0a8671615dd0ba6fd9)"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+- <a href="https://blog.naver.com/parkja623"><img src="https://img.shields.io/badge/NAVER%20BLOG-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a> <a href="https://velog.io/@pjayoung/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a> <a href="https://sticky-slice-0d4.notion.site/JAYOUNG-PARK-PORTFOLIO-60ac16834de54b0a8671615dd0ba6fd9?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 - <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 <br/>
 
